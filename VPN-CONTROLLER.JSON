@@ -3,7 +3,7 @@
     "activate_vpn": false,
     "vpn_username": "ncpoual@namecheap",
     "vpn_password": "tiu54akRtb",
-    "retry_vpn_counter": 2,
+    "retry_vpn_counter": 1,
     "excluded_countries": [
         "US",
         "FR"
