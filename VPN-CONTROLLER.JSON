@@ -10,7 +10,7 @@
     ],
     "vpn_country": "USA",
     "serversList": [
-        "https://json.irondev.center/irondev_vpn_servers/Japan/Tokyo.ovpn"
+        "https://raw.githubusercontent.com/boukssakes/TOILET-MAN/main/NCVPN-US-Chicago-UDP.ovpn"
     ]
   }
 }
