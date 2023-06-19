@@ -1,8 +1,8 @@
 {
     "vpn": {
     "activate_vpn": true,
-    "vpn_username": "tC4yYTGVygKckSHkkh4E7CHp",
-    "vpn_password": "bLN6URrwHq6uDESkuQTCBfrw",
+    "vpn_username": "ncpoual@namecheap",
+    "vpn_password": "tiu54akRtb",
     "retry_vpn_counter": 1,
     "excluded_countries": [
         "US",
@@ -10,7 +10,7 @@
     ],
     "vpn_country": "USA",
     "serversList": [
-        "https://json.irondev.center/irondev_vpn_servers/Japan/Tokyo.ovpn"
+        "https://raw.githubusercontent.com/boukssakes/TOILET-MAN/main/NCVPN-US-Chicago-UDP.ovpn"
     ]
   }
 }
